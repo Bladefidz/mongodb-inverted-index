@@ -1,0 +1,3 @@
+[submodule "modules/PySastrawi"]
+	path = modules/PySastrawi
+	url = https://github.com/Bladefidz/PySastrawi.git
